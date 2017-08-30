@@ -1,0 +1,501 @@
+.wrapper {
+    width: 1500px;
+    margin: auto;
+}
+
+.imges {
+    position: absolute;
+    top: 12%;
+    left: 15%;
+}
+
+.block {
+    position: relative;
+    width: 465px;
+    height: 500px;
+    background-color: #7acec3;
+}
+
+.fa-bars {
+    font-size: 35px;
+    padding: 40px;
+    text-align: center;
+    color: #e9eae2;
+    border: 3px solid #e9eae2;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    font-size: 21px;
+    margin-top: 50px;
+    margin-left: 25px;
+    color: #7acec3;
+}
+
+.bars {
+    float: right;
+    margin-top: 40px;
+    margin-right: 158px;
+}
+
+.chair p {
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    width: 90px;
+    height: 51px;
+    margin: 0 0 10px;
+    color: #393d3c;
+}
+
+.chair {
+    position: relative;
+    width: 1035px;
+    height: 500px;
+    background: #e9eae2;
+}
+
+.text {
+    font-family: 'Roboto Condensed';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+    position: absolute;
+    width: 98px;
+    margin-top: 50%;
+    margin-left: 65px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.phone {
+    font-family: 'Roboto Condensed';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+    height: 27px;
+    margin-top: 144px;
+    margin-left: 136px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.line1 {
+    width: 680px;
+    margin-top: 250px;
+    margin-left: -109px;
+    -webkit-transform: rotate(133deg);
+    -moz-transform: rotate(133deg);
+    -ms-transform: rotate(133deg);
+    -o-transform: rotate(133deg);
+}
+
+
+/*--------*/
+
+.foo {
+    width: 465px;
+    height: 500px;
+    background-color: #ebb240;
+}
+
+.fa-arrow-right {
+    margin-top: 157px;
+    margin-left: 140px;
+    color: #fff;
+}
+
+.line {
+    width: 680px;
+    margin-top: -250px;
+    margin-left: -109px;
+    -webkit-transform: rotate(133deg);
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+}
+
+.all {
+    font-family: 'Roboto Condensed';
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 14px;
+    margin-top: -100px;
+    margin-left: 160px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.all span {
+    color: black;
+}
+
+.img {
+    margin-top: -352px;
+    margin-left: 465px;
+}
+
+.fondue {
+    font-family: 'Roboto Condensed';
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 14px;
+    margin-top: -400px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.project {
+    font-family: 'Roboto Condensed';
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-left: 100px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.view {
+    font-family: 'Roboto Condensed';
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-top: -115px;
+    margin-left: -40px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.fa2 {
+    color: #ebb240;
+}
+
+.prodjects {
+    font-family: 'Roboto Condensed';
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 14px;
+    margin-top: 60px;
+    margin-left: 220px;
+    text-transform: uppercase;
+    color: #fefefe;
+}
+
+.fa-heart-o {
+    margin-top: 100px;
+    margin-left: 160px;
+}
+
+.plus {
+    font-family: 'Roboto Condensed';
+    font-size: 11px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-top: 0;
+    margin-left: 160px;
+    text-transform: uppercase;
+    color: #f00;
+}
+
+.img1 {
+    width: 465px;
+    margin-top: -451px;
+    margin-left: 1035px;
+}
+
+.potter {
+    font-family: 'Roboto Condensed';
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 14px;
+    margin-top: -220px;
+    margin-left: 35px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.for {
+    font-family: 'Roboto Condensed';
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-left: 35px;
+    color: #333;
+}
+
+.fa3 {
+    margin-top: -220px;
+    margin-left: 35px;
+    color: #ebb240;
+}
+
+.fa4 {
+    margin-top: -100px;
+    margin-left: -70px;
+}
+
+.img2 {
+    height: 465px;
+    margin-top: 13px;
+    margin-left: 1035px;
+}
+
+.tabano {
+    font-family: 'Roboto Condensed';
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 14px;
+    margin-top: -130px;
+    margin-left: 35px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.designer {
+    font-family: 'Roboto Condensed';
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 12px;
+    margin-left: 35px;
+    color: #333;
+}
+
+.fa5 {
+    margin-top: -64px;
+    margin-left: 210px;
+}
+
+.fa6 {
+    margin-top: -140px;
+    margin-left: 240px;
+}
+
+.info {
+    display: flex;
+}
+
+.louis {
+    width: 299px;
+    height: 465px;
+    background-image: url(img/img5.png);
+}
+
+.louis h3 {
+    color: #ffffff;
+    font-family: "Roboto Condensed";
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 14px;
+    text-transform: uppercase;
+}
+
+.louis span {
+    color: #fefefe;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 12px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.starck {
+    width: 180px;
+    height: 46px;
+    color: #fefefe;
+}
+
+.brown {
+    width: 736px;
+    height: 465px;
+    background-color: #eaeaea;
+    background-image: url(img/img6.png);
+}
+
+.fiji {
+    width: 465px;
+    height: 251px;
+    background: url(img/2-layers.png);
+    background-color: #fff;
+}
+
+.Sesann {
+    /* Style for "bg" */
+    width: 735px;
+    height: 300px;
+    background-color: #fcfcfc;
+    background-image: url(img/2-layers1.png);
+}
+
+.Alessi {
+    /* Style for "bg" */
+    width: 300px;
+    height: 300px;
+    background-color: #cecece;
+    background-image: url(img/2-layers2.png);
+}
+
+.timeline {
+    /* Style for "bg" */
+    width: 465px;
+    height: 300px;
+    background-color: #ebb240;
+}
+
+.lines {
+    width: 680px;
+    margin-top: 230px;
+    margin-left: -109px;
+    -webkit-transform: rotate(133deg);
+    -moz-transform: rotate(133deg);
+    -ms-transform: rotate(133deg);
+    -o-transform: rotate(133deg);
+}
+
+.studio {
+    font-family: 'Roboto Condensed';
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 14px;
+    float: right;
+    margin-top: 5%;
+    margin-right: 13%;
+    text-transform: uppercase;
+    color: #fefefe;
+}
+
+.foon {
+    width: 465px;
+    height: 500px;
+    background-color: #ff9b6d;
+}
+
+.awards {
+    font-family: 'Roboto Condensed';
+    display: flex;
+}
+
+.lorem {
+    width: 1035px;
+    background: #e9eae2;
+}
+
+.ipsum {
+    float: left;
+    margin-top: 50px;
+    margin-left: 11%;
+}
+
+.ipsum h4 {
+    font-size: 18px;
+    font-style: italic;
+    line-height: 18px;
+    width: 345px;
+    color: #333;
+}
+
+.ipsum p {
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 16px;
+    width: 337px;
+    color: #333;
+}
+
+.Aenean {
+    float: right;
+    margin-top: 70px;
+    margin-right: 17%;
+}
+
+.line3 {
+    margin: 0;
+}
+
+.Aenean h4 {
+    margin: 11% 0 0;
+    width: 49px;
+    color: #333333;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+}
+
+.Aenean p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+    display: inline-flex;
+    width: 151px;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.staff {
+    display: flex;
+    padding: 4% 11%;
+    background: #e9eae2;
+    justify-content: space-around;
+}
+
+.Sit h4 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    width: 262px;
+    text-transform: uppercase;
+}
+
+.Sit p {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 18px;
+    width: 262px;
+    color: #333;
+}
+
+.designer h4 {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 16px;
+    width: 150px;
+    margin: 10px 0 0;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.designer p {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    width: 49px;
+    margin: 0 0 17%;
+    text-transform: uppercase;
+    color: #333;
+}
+
+.designer span {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    width: 15px;
+    text-transform: uppercase;
+    color: #fd5000;
+}
+
+.orange {
+    padding: 0 2%;
+    color: #fd5000;
+    font-size: 14px;
+}
+
+.orange1 {
+    margin-right: 45%;
+    color: #fd5000;
+}
